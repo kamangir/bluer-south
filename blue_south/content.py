@@ -1,7 +1,8 @@
 import abcli
 import blue_options
-import gizai
+import blue_objects
 from blue_objects import README
+import gizai
 
 
 items = README.Items(
@@ -20,9 +21,10 @@ items = README.Items(
             "url": f"https://github.com/kamangir/{module.NAME}",
         }
         for module in [
-            gizai,
             abcli,
             blue_options,
+            blue_objects,
+            gizai,
         ]
     ]
 )
