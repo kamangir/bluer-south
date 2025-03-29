@@ -1,6 +1,6 @@
 import abcli
 import blue_options
-import blue_objects
+import bluer_objects
 from blue_objects import README
 import gizai
 
@@ -23,7 +23,7 @@ items = README.Items(
         for module in [
             abcli,
             blue_options,
-            blue_objects,
+            bluer_objects,
             gizai,
         ]
     ]
