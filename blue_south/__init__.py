@@ -4,7 +4,7 @@ ICON = "🌀"
 
 DESCRIPTION = f"{ICON} AI for the Global South."
 
-VERSION = "4.2.1"
+VERSION = "4.3.1"
 
 REPO_NAME = "blue-south"
 
