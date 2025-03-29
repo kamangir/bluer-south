@@ -18,7 +18,7 @@ items = README.Items(
                     ),
                 ]
             ),
-            "url": f"https://github.com/kamangir/{module.NAME}",
+            "url": f"https://github.com/kamangir/{module.REPO_NAME}",
         }
         for module in [
             abcli,
