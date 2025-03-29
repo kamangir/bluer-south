@@ -1,6 +1,6 @@
 from blueness.pypi import setup
 
-from blue_plugin import NAME, VERSION, DESCRIPTION, REPO_NAME
+from blue_south import NAME, VERSION, DESCRIPTION, REPO_NAME
 
 setup(
     filename=__file__,
@@ -11,14 +11,10 @@ setup(
     packages=[
         NAME,
         f"{NAME}.help",
-        f"{NAME}.help.node",
-        f"{NAME}.node",
     ],
     include_package_data=True,
     package_data={
         NAME: [
-            "config.env",
-            "sample.env",
             ".abcli/**/*.sh",
         ],
     },
