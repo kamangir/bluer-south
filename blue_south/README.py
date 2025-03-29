@@ -3,19 +3,7 @@ import os
 from blue_objects import file, README
 
 from blue_south import NAME, VERSION, ICON, REPO_NAME
-
-
-items = README.Items(
-    [
-        {
-            "name": f"feature {index}",
-            "marquee": "https://github.com/kamangir/assets/raw/main/blue-south/marquee.png?raw=true",
-            "description": f"description of feature {index} ...",
-            "url": "#",
-        }
-        for index in range(1, 4)
-    ]
-)
+from blue_south.content import items
 
 
 def build():

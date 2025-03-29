@@ -1,6 +1,6 @@
 # 🌀 blue-south
 
-AI with no Big Tech dependency for the Global South.
+AI Independent of Big Tech for the Global South.
 
 ```bash
 pip install blue-south
