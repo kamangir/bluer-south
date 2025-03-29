@@ -1,6 +1,6 @@
 # 🌀 blue-south
 
-Global South AI: Free from Big Tech.
+AI for Global South: Free from Big Tech.
 
 ```bash
 pip install blue-south

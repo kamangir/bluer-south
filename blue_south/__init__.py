@@ -2,9 +2,9 @@ NAME = "blue_south"
 
 ICON = "🌀"
 
-DESCRIPTION = f"{ICON} Global South AI: Free from Big Tech."
+DESCRIPTION = f"{ICON} AI for Global South: Free from Big Tech."
 
-VERSION = "4.8.1"
+VERSION = "4.9.1"
 
 REPO_NAME = "blue-south"
 
