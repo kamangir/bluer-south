@@ -1,7 +1,7 @@
 import abcli
 import blue_options
 import bluer_objects
-from blue_objects import README
+from bluer_objects import README
 import gizai
 
 
