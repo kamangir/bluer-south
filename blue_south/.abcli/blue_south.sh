@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 function blue_south() {
-    local task=$(abcli_unpack_keyword $1 version)
+    local task=$1
 
     abcli_generic_task \
         plugin=blue_south,task=$task \
