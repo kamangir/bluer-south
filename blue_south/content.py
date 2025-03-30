@@ -1,4 +1,4 @@
-import blue_ai
+import bluer_ai
 import bluer_options
 import bluer_objects
 from bluer_objects import README
@@ -21,7 +21,7 @@ items = README.Items(
             "url": f"https://github.com/kamangir/{module.REPO_NAME}",
         }
         for module in [
-            blue_ai,
+            bluer_ai,
             bluer_options,
             bluer_objects,
             gizai,

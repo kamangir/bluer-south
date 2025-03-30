@@ -1,7 +1,7 @@
 from typing import List
 
 from bluer_options.terminal import show_usage, xtra
-from blue_ai.help.generic import help_functions as generic_help_functions
+from bluer_ai.help.generic import help_functions as generic_help_functions
 
 from blue_south import ALIAS
 
