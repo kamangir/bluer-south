@@ -1,5 +1,5 @@
-import abcli
-import blue_options
+import blue_ai
+import bluer_options
 import bluer_objects
 from bluer_objects import README
 import gizai
@@ -21,8 +21,8 @@ items = README.Items(
             "url": f"https://github.com/kamangir/{module.REPO_NAME}",
         }
         for module in [
-            abcli,
-            blue_options,
+            blue_ai,
+            bluer_options,
             bluer_objects,
             gizai,
         ]
