@@ -1,4 +1,4 @@
-from blue_south import fullname
+from bluer_south import fullname
 
 
 def test_fullname():

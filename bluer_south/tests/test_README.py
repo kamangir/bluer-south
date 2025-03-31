@@ -1,4 +1,4 @@
-from blue_south import README
+from bluer_south import README
 
 
 def test_build_README():

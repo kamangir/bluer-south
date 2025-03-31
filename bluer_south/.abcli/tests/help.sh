@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-function test_blue_south_help() {
+function test_bluer_south_help() {
     local options=$1
 
     local module
@@ -19,7 +19,7 @@ function test_blue_south_help() {
         \
         "@south browse" \
         \
-        "blue_south"; do
+        "bluer_south"; do
         abcli_eval ,$options \
             bluer_ai_help $module
         [[ $? -ne 0 ]] && return 1

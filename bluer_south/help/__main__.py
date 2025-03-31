@@ -1,8 +1,8 @@
 from blueness import module
 from bluer_options.help.functions import help_main
 
-from blue_south import NAME
-from blue_south.help.functions import help_functions
+from bluer_south import NAME
+from bluer_south.help.functions import help_functions
 
 NAME = module.name(__file__, NAME)
 

@@ -1,14 +1,14 @@
-NAME = "blue_south"
+NAME = "bluer_south"
 
 ICON = "🌀"
 
 DESCRIPTION = f"{ICON} AI for Global South: Free from Big Tech."
 
-VERSION = "4.24.1"
+VERSION = "4.26.1"
 
-REPO_NAME = "blue-south"
+REPO_NAME = "bluer-south"
 
-MARQUEE = "https://github.com/kamangir/assets/raw/main/blue-south/marquee.png?raw=true"
+MARQUEE = "https://github.com/kamangir/assets/raw/main/bluer-south/marquee.png?raw=true"
 
 ALIAS = "@south"
 

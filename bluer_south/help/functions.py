@@ -3,7 +3,7 @@ from typing import List
 from bluer_options.terminal import show_usage, xtra
 from bluer_ai.help.generic import help_functions as generic_help_functions
 
-from blue_south import ALIAS
+from bluer_south import ALIAS
 
 
 def help_browse(
@@ -18,7 +18,7 @@ def help_browse(
             "browse",
             f"[{options}]",
         ],
-        "browse blue_south.",
+        "browse bluer_south.",
         mono=mono,
     )
 
