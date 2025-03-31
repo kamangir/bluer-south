@@ -21,7 +21,7 @@ function test_blue_south_help() {
         \
         "blue_south"; do
         abcli_eval ,$options \
-            abcli_help $module
+            bluer_ai_help $module
         [[ $? -ne 0 ]] && return 1
 
         abcli_hr

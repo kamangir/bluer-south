@@ -8,5 +8,5 @@ function blue_south_browse() {
     [[ "$what" == "actions" ]] &&
         url="$url/actions"
 
-    abcli_browse $url
+    bluer_ai_browse $url
 }
