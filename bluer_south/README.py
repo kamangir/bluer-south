@@ -2,8 +2,8 @@ import os
 
 from bluer_objects import file, README
 
-from blue_south import NAME, VERSION, ICON, REPO_NAME
-from blue_south.content import items
+from bluer_south import NAME, VERSION, ICON, REPO_NAME
+from bluer_south.content import items
 
 
 def build():

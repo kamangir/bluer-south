@@ -1,9 +1,9 @@
-# 🌀 blue-south
+# 🌀 bluer-south
 
 AI for Global South: Free from Big Tech.
 
 ```bash
-pip install blue-south
+pip install bluer-south
 ```
 
 |   |   |   |
@@ -14,6 +14,6 @@ pip install blue-south
 ---
 
 
-[![pylint](https://github.com/kamangir/blue-south/actions/workflows/pylint.yml/badge.svg)](https://github.com/kamangir/blue-south/actions/workflows/pylint.yml) [![pytest](https://github.com/kamangir/blue-south/actions/workflows/pytest.yml/badge.svg)](https://github.com/kamangir/blue-south/actions/workflows/pytest.yml) [![bashtest](https://github.com/kamangir/blue-south/actions/workflows/bashtest.yml/badge.svg)](https://github.com/kamangir/blue-south/actions/workflows/bashtest.yml) [![PyPI version](https://img.shields.io/pypi/v/blue-south.svg)](https://pypi.org/project/blue-south/) [![PyPI - Downloads](https://img.shields.io/pypi/dd/blue-south)](https://pypistats.org/packages/blue-south)
+[![pylint](https://github.com/kamangir/bluer-south/actions/workflows/pylint.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/pylint.yml) [![pytest](https://github.com/kamangir/bluer-south/actions/workflows/pytest.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/pytest.yml) [![bashtest](https://github.com/kamangir/bluer-south/actions/workflows/bashtest.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/bashtest.yml) [![PyPI version](https://img.shields.io/pypi/v/bluer-south.svg)](https://pypi.org/project/bluer-south/) [![PyPI - Downloads](https://img.shields.io/pypi/dd/bluer-south)](https://pypistats.org/packages/bluer-south)
 
-built by 🌀 [`bluer_options-5.22.1`](https://github.com/kamangir/awesome-bash-cli), based on 🌀 [`blue_south-4.24.1`](https://github.com/kamangir/blue-south).
+built by 🌀 [`bluer_options-5.24.1`](https://github.com/kamangir/awesome-bash-cli), based on 🌀 [`bluer_south-4.26.1`](https://github.com/kamangir/bluer-south).

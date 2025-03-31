@@ -1,8 +1,8 @@
 from typing import List
 
-from abcli.host import signature as abcli_signature
+from bluer_ai.host import signature as abcli_signature
 
-from blue_south import fullname
+from bluer_south import fullname
 
 
 def signature() -> List[str]:

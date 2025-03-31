@@ -1,4 +1,4 @@
-from blue_south.host import signature
+from bluer_south.host import signature
 
 
 def test_signature():
