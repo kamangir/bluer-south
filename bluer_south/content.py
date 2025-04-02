@@ -1,6 +1,7 @@
 import bluer_ai
 import bluer_options
 import bluer_objects
+import bluer_plugin
 from bluer_objects import README
 import gizai
 
@@ -24,6 +25,7 @@ items = README.Items(
             bluer_ai,
             bluer_options,
             bluer_objects,
+            bluer_plugin,
             gizai,
         ]
     ]
