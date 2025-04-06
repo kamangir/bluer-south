@@ -4,7 +4,7 @@ ICON = "🌀"
 
 DESCRIPTION = f"{ICON} AI for Global South: Free from Big Tech."
 
-VERSION = "4.44.1"
+VERSION = "4.45.1"
 
 REPO_NAME = "bluer-south"
 
