@@ -2,6 +2,7 @@ import bluer_ai
 import bluer_options
 import bluer_objects
 import bluer_plugin
+import bluer_sandbox
 import bluer_sbc
 from bluer_objects import README
 import gizai
@@ -28,6 +29,7 @@ items = README.Items(
             bluer_objects,
             bluer_plugin,
             bluer_sbc,
+            bluer_sandbox,
             gizai,
         ]
     ]
