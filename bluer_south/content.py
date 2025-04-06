@@ -25,10 +25,10 @@ items = README.Items(
         }
         for module in [
             bluer_ai,
+            bluer_sbc,
             bluer_options,
             bluer_objects,
             bluer_plugin,
-            bluer_sbc,
             bluer_sandbox,
             gizai,
         ]
