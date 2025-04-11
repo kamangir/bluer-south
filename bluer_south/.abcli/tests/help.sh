@@ -20,11 +20,11 @@ function test_bluer_south_help() {
         "@south browse" \
         \
         "bluer_south"; do
-        abcli_eval ,$options \
+        bluer_ai_eval ,$options \
             bluer_ai_help $module
         [[ $? -ne 0 ]] && return 1
 
-        abcli_hr
+        bluer_ai_hr
     done
 
     return 0
