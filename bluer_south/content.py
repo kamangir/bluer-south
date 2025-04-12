@@ -1,3 +1,4 @@
+import blueness
 import bluer_ai
 import bluer_options
 import bluer_objects
@@ -26,6 +27,7 @@ items = README.Items(
         for module in [
             bluer_ai,
             bluer_sbc,
+            blueness,
             bluer_options,
             bluer_objects,
             bluer_plugin,
