@@ -17,8 +17,6 @@ function test_bluer_south_help() {
         "@south test" \
         "@south test list" \
         \
-        "@south browse" \
-        \
         "bluer_south"; do
         bluer_ai_eval ,$options \
             bluer_ai_help $module
