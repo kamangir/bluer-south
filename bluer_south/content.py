@@ -5,6 +5,7 @@ import bluer_objects
 import bluer_plugin
 import bluer_sandbox
 import bluer_sbc
+import vancouver_watching
 from bluer_objects import README
 import gizai
 
@@ -27,6 +28,7 @@ items = README.Items(
         for module in [
             bluer_ai,
             bluer_sbc,
+            vancouver_watching,
             blueness,
             bluer_options,
             bluer_objects,
