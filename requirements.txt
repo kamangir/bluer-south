@@ -3,4 +3,5 @@ bluer_ai
 bluer_plugin
 bluer_sbc
 bluer_sandbox
+vancouver_watching
 gizai
