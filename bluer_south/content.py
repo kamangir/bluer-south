@@ -30,9 +30,9 @@ items = README.Items(
         for module in [
             bluer_ai,
             bluer_sbc,
-            vancouver_watching,
-            bluer_flow,
             bluer_geo,
+            bluer_flow,
+            vancouver_watching,
             blueness,
             bluer_options,
             bluer_objects,
