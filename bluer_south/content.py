@@ -2,9 +2,12 @@ import blueness
 import bluer_ai
 import bluer_options
 import bluer_objects
+import bluer_flow
+import bluer_geo
 import bluer_plugin
 import bluer_sandbox
 import bluer_sbc
+import vancouver_watching
 from bluer_objects import README
 import gizai
 
@@ -27,11 +30,14 @@ items = README.Items(
         for module in [
             bluer_ai,
             bluer_sbc,
-            blueness,
+            bluer_geo,
+            bluer_flow,
+            vancouver_watching,
             bluer_options,
             bluer_objects,
             bluer_plugin,
             bluer_sandbox,
+            blueness,
             gizai,
         ]
     ]
