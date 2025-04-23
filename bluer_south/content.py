@@ -33,11 +33,11 @@ items = README.Items(
             bluer_geo,
             bluer_flow,
             vancouver_watching,
-            blueness,
             bluer_options,
             bluer_objects,
             bluer_plugin,
             bluer_sandbox,
+            blueness,
             gizai,
         ]
     ]
