@@ -4,6 +4,7 @@ import bluer_options
 import bluer_objects
 import bluer_flow
 import bluer_geo
+import bluer_journal
 import bluer_plugin
 import bluer_sandbox
 import bluer_sbc
@@ -33,6 +34,7 @@ items = README.Items(
             bluer_geo,
             bluer_flow,
             vancouver_watching,
+            bluer_journal,
             bluer_options,
             bluer_objects,
             bluer_plugin,
