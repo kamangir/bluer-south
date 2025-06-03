@@ -6,5 +6,6 @@ bluer_journal
 bluer_plugin
 bluer_sandbox
 bluer_sbc
+bluer_ugv
 gizai
 vancouver_watching

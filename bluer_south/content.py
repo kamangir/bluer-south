@@ -8,6 +8,7 @@ import bluer_journal
 import bluer_plugin
 import bluer_sandbox
 import bluer_sbc
+import bluer_ugv
 import vancouver_watching
 from bluer_objects import README
 import gizai
@@ -32,6 +33,7 @@ items = README.Items(
             bluer_ai,
             bluer_sbc,
             bluer_geo,
+            bluer_ugv,
             bluer_flow,
             vancouver_watching,
             bluer_journal,
