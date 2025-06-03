@@ -33,6 +33,7 @@ items = README.Items(
             bluer_ai,
             bluer_sbc,
             bluer_geo,
+            bluer_ugv,
             bluer_flow,
             vancouver_watching,
             bluer_journal,
@@ -40,7 +41,6 @@ items = README.Items(
             bluer_objects,
             bluer_plugin,
             bluer_sandbox,
-            bluer_ugv,
             blueness,
             gizai,
         ]
