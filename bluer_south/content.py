@@ -1,5 +1,6 @@
 import blueness
 import bluer_ai
+import abadpour
 import bluer_algo
 import bluer_options
 import bluer_objects
@@ -45,6 +46,7 @@ items = README.Items(
             bluer_sandbox,
             blueness,
             gizai,
+            abadpour,
         ]
     ]
 )
