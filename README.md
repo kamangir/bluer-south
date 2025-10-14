@@ -19,4 +19,4 @@ pip install bluer-south
 
 [![pylint](https://github.com/kamangir/bluer-south/actions/workflows/pylint.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/pylint.yml) [![pytest](https://github.com/kamangir/bluer-south/actions/workflows/pytest.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/pytest.yml) [![bashtest](https://github.com/kamangir/bluer-south/actions/workflows/bashtest.yml/badge.svg)](https://github.com/kamangir/bluer-south/actions/workflows/bashtest.yml) [![PyPI version](https://img.shields.io/pypi/v/bluer-south.svg)](https://pypi.org/project/bluer-south/) [![PyPI - Downloads](https://img.shields.io/pypi/dd/bluer-south)](https://pypistats.org/packages/bluer-south)
 
-built by 🌀 [`bluer README`](https://github.com/kamangir/bluer-objects/tree/main/bluer_objects/README), based on 🌀 [`bluer_south-4.109.1`](https://github.com/kamangir/bluer-south).
+built by 🌀 [`bluer README`](https://github.com/kamangir/bluer-objects/tree/main/bluer_objects/README), based on 🌀 [`bluer_south-4.110.1`](https://github.com/kamangir/bluer-south).
