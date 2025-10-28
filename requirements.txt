@@ -1,6 +1,7 @@
 bluer_ai
 
 abadpour
+bluer_academy
 bluer_algo
 bluer_flow
 bluer_geo
