@@ -20,6 +20,14 @@ import gizai
 items = README.Items(
     [
         {
+            "name": "blog",
+            "marquee": "https://github.com/kamangir/assets2/blob/main/blog/blog.png?raw=true",
+            "description": "📜 kamangir writes here.",
+            "url": "https://github.com/kamangir/blog/issues",
+        }
+    ]
+    + [
+        {
             "name": module.NAME,
             "marquee": module.MARQUEE,
             "description": " ".join(
