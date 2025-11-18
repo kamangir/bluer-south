@@ -21,7 +21,7 @@ items = README.Items(
     [
         {
             "name": "blog",
-            "marquee": "https://github.com/kamangir/assets2/blob/main/blog/blog.png?raw=true",
+            "marquee": "https://github.com/kamangir/assets2/blob/main/blog/blog-v2.png?raw=true",
             "description": "📜 kamangir writes here.",
             "url": "https://github.com/kamangir/blog/issues",
         }
