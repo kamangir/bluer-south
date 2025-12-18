@@ -1,5 +1,6 @@
 import blueness
 import bluer_academy
+import bluer_agent
 import bluer_ai
 import abadpour
 import bluer_algo
@@ -38,6 +39,7 @@ items = README.Items(
             bluer_geo,
             bluer_ugv,
             bluer_algo,
+            bluer_agent,
             bluer_flow,
             bluer_academy,
             vancouver_watching,
