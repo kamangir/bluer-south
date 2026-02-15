@@ -6,8 +6,9 @@ from bluer_south import NAME, VERSION, ICON, REPO_NAME
 from bluer_south.content import items
 
 
-def build():
+def build(args):
     return README.build(
+        args=args,
         items=items,
         path=os.path.join(file.path(__file__), ".."),
         ICON=ICON,
